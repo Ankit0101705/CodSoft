@@ -42,20 +42,6 @@ This repository contains all my tasks completed during the **CodSoft Web Develop
    - A dynamic job board allowing users to view and apply for jobs.  
    - Built using **React**, **Node.js**, and **MongoDB**.  
 
-
----
-
-### ⭐ Level 3 Tasks
-1. **Blogging Platform**  
-   - A full-stack blogging platform with user authentication and commenting.  
-   - Built using **HTML**, **CSS**, **JavaScript**, and **Node.js**.  
- 
-
-2. **Project Management Tool**  
-   - A tool for managing projects, tasks, and deadlines.  
-   - Built using **React**, **Node.js**, and **MongoDB**.  
-   
-
 ---
 Run Static Projects (HTML/CSS)
   **Open the index.html file in your browser.**
