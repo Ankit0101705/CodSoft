@@ -1,4 +1,4 @@
-# 💻 Ankit Pal | Web Development Internship @ CodSoft
+# 💻 Ankit Pal | Web Development Internship @CodSoft
 
 Welcome to my Web Development Internship projects repository! 🚀  
 This repository contains all my tasks completed during the **CodSoft Web Development Internship**.
