@@ -7,8 +7,7 @@ This repository contains all my tasks completed during the **CodSoft Web Develop
 
 ## 📋 About Me
 
-**Name:** Ankit Pal  
-**Program:** BCA, Supreme Knowledge Foundation  
+**Name:** Ankit Pal    
 **Aspiring:** Software Developer | Web Developer  
 **Email:** [work.with.ankitpal@gmail.com](mailto:work.with.ankitpal@gmail.com)  
 **LinkedIn:** [Ankit Pal](https://www.linkedin.com/in/ankit-pal-a7755930a)  
